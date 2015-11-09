@@ -1,0 +1,5 @@
+F:\TestTask\Library\LibraryDAL\bin\Debug\LibraryDAL.dll
+F:\TestTask\Library\LibraryDAL\bin\Debug\LibraryDAL.pdb
+F:\TestTask\Library\LibraryDAL\obj\Debug\LibraryDAL.dll
+F:\TestTask\Library\LibraryDAL\obj\Debug\LibraryDAL.pdb
+F:\TestTask\Library\LibraryDAL\obj\Debug\LibraryDAL.csprojResolveAssemblyReference.cache
