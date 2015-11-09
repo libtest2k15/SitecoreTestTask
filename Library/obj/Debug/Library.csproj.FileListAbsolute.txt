@@ -1,0 +1,10 @@
+F:\TestTask\Library\Library\bin\Library.dll.config
+F:\TestTask\Library\Library\bin\Library.dll
+F:\TestTask\Library\Library\bin\Library.pdb
+F:\TestTask\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+F:\TestTask\Library\Library\obj\Debug\Library.dll
+F:\TestTask\Library\Library\obj\Debug\Library.pdb
+F:\TestTask\Library\Library\bin\LibraryBL.dll
+F:\TestTask\Library\Library\bin\LibraryBL.pdb
+F:\TestTask\Library\Library\bin\LibraryDAL.dll
+F:\TestTask\Library\Library\bin\LibraryDAL.pdb
